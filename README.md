@@ -29,6 +29,7 @@ This project analyzes marketing performance across three major platforms: **Face
 
 ### Campaign Strategy Matrix (Scatter Plot)
 ![Campaign Matrix](images/scatter_plot.png)
+
 *Analyzing Spend vs. ROAS to identify "Cash Cows" and "Bleeding" campaigns.*
 
 ## 5. How to Run (Cách chạy dự án)
