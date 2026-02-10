@@ -5,7 +5,6 @@ This project analyzes marketing performance across three major platforms: **Face
 
 * **Role:** Data Analyst / BI Developer
 * **Status:** Completed
-* **Live Demo:** [Link to NovyPro or Video Demo] (Optional)
 
 ## 2. Key Features (Tính năng chính)
 * **Multi-channel Analysis:** Consolidated data from 3 platforms into a unified view.
